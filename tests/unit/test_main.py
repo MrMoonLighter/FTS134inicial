@@ -80,3 +80,4 @@ def teste_dividir_negativo():
 # (Build) --> Suite --> (Build) -----> (Build)
 #   Dev      de Teste    Teste  Muitos Produção
 #                               Testes
+# Escrevi isso no github
