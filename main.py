@@ -6,6 +6,14 @@ def somar(numero_a, numero_b):
     return numero_a + numero_b
 
 
+def subtrair(numero_a, numero_b):
+    return numero_a - numero_b
+
+
+def multiplicar(numero_a, numero_b):
+    return numero_a * numero_b
+
+
 def dividir(numero_a, numero_b):
     try:
         return numero_a / numero_b
